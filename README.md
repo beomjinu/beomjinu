@@ -2,17 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeomjinu&count_bg=%230000ED&title_bg=%230000ED&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-http://beomjinu.com (준비 예정) <br>
-
-<b>내가 정한 타이틀</b>: <br>
-
-`만 15세 개발자`, `100% 독학 개발자`, <br>
-`1인 개발 창업가`
-
-
-
-
-
 # Stack
 
 [![Jinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beomjinu)](https://github.com/beomjinu/github-readme-stats)
