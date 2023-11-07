@@ -2,8 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeomjinu&count_bg=%230000ED&title_bg=%230000ED&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-`Full-stack developer`, `Entrepreneur`,  
-`15 years old`
+`Full-stack developer`, `Entrepreneur`
 
 ### 🤙 contact me
 - discord: beomjinu#2750
